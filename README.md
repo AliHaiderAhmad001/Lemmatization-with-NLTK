@@ -11,3 +11,5 @@ Examples of lemmatization:
 -> corpora : corpus
 -> better : good
 ```
+
+---
